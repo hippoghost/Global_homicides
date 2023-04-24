@@ -12,17 +12,16 @@ Dataset "intentional homicides count":
 
 It is composed of 270 rows and 24 columns.
 
-Region - large geographic area that can contain multiple countries.
-Subregion - smaller geographic area within a region that can contain multiple countries or parts of a country.
-country - self-governing geographic area with distinct borders and a unique government.
-source - 
-year2000-year2020- absolute homicides number per year
-Dataset "intentional homicides rates":
-
+    Region - large geographic area that can contain multiple countries.
+    Subregion - smaller geographic area within a region that can contain multiple countries or parts of a country.
+    country - self-governing geographic area with distinct borders and a unique government.
+    source - 
+    year2000-year2020- absolute homicides number per year
+    
 It is composed of 270 rows and 24 columns.
 
-Region - large geographic area that can contain multiple countries.
-Subregion - smaller geographic area within a region that can contain multiple countries or parts of a country.
-country - self-governing geographic area with distinct borders and a unique government.
-source - 
-year2000-year2020- absolute homicides number per year
+    Region - large geographic area that can contain multiple countries.
+    Subregion - smaller geographic area within a region that can contain multiple countries or parts of a country.
+    country - self-governing geographic area with distinct borders and a unique government.
+    source - 
+    year2000-year2020- absolute homicides number per year
