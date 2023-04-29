@@ -1,14 +1,22 @@
-# Global_homicides
-SQL analysis of global homicide trends
+# Global_homicides SQL analysis
+
+## PROJECT OVERVIEW
+
+In this project, we will conduct a comprehensive data analysis of a homicide dataset from UNDATA using SQL. We chose this dataset for a number of reasons:
+
+* The dataset is rich in insights
+* The analysis has the potential to improve public safety
+* The dataset is of public interest
+
+We will use SQL to manipulate, query, and aggregate data, thus identifying trends and patterns, while DB Browser will facilitate data exploration.
 
 
-In this project, we'll work with data from Undata and more particularly with Intentional Homicide Victims by counts and rates per 100,000 population.
 
+
+## DATA
 The original file was an xls file that was converted and cleaned with the use of Python in two different csv files. The final csv that we used for our analysis was loaded in DB Browser for SQLITE.
 
-In this project, we'll use SQL in Jupyter Notebook to explore and analyze data from this database.
-
-Dataset "intentional homicides count":
+### Dataset "intentional homicides count":
 
 It is composed of 270 rows and 24 columns.
 
@@ -18,10 +26,21 @@ It is composed of 270 rows and 24 columns.
     source - 
     year2000-year2020- absolute homicides number per year
     
-It is composed of 270 rows and 24 columns.
+ The final dataset consists of two CSV files that were joined together:
 
-    Region - large geographic area that can contain multiple countries.
-    Subregion - smaller geographic area within a region that can contain multiple countries or parts of a country.
-    country - self-governing geographic area with distinct borders and a unique government.
-    source - 
-    year2000-year2020- absolute homicides number per year
+* number.csv - provides information about the total number of homicides per country, region, and subregion.
+* rates.csv - contains information about the rates of homicides per country, region, and subregion.
+
+ This allowed for greater clarity, readability, and understanding. All of the datasets used in this project can be found in our GitHub repository.
+    
+## GOALS
+
+* show how to manipulate, query and aggregate data using SQL to identify trends and patterns.
+* To demonstrate how to facilitate data exploration using DB Browser.
+* To explain how to import and merge CSV files into a single dataset for complex analysis.
+* To provide insights on homicide rates in various countries and regions by using SQL queries to filter and sort data.
+
+Check my article on [MEDIUM](https://medium.com/@dimmakriss/natural-language-processing-and-sentiment-analysis-on-music-lyrics-7af53192945b)
+
+## 🚀 About Me
+Data analyst & Storyteller ┃ Pattern discoverer 
