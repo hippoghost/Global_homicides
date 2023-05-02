@@ -35,10 +35,10 @@ It is composed of 270 rows and 24 columns.
     
 ## GOALS
 
-* show how to manipulate, query and aggregate data using SQL to identify trends and patterns.
-* To demonstrate how to facilitate data exploration using DB Browser.
-* To explain how to import and merge CSV files into a single dataset for complex analysis.
-* To provide insights on homicide rates in various countries and regions by using SQL queries to filter and sort data.
+* Show how to manipulate, query and aggregate data using SQL to identify trends and patterns.
+* Demonstrate how to facilitate data exploration using DB Browser.
+* Explain how to import and merge CSV files into a single dataset for complex analysis.
+* Provide insights on homicide rates in various countries and regions by using SQL queries to filter and sort data.
 
 Check my article on [MEDIUM](https://medium.com/@dimmakriss/natural-language-processing-and-sentiment-analysis-on-music-lyrics-7af53192945b)
 
