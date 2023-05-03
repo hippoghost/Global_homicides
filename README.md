@@ -40,7 +40,7 @@ It is composed of 270 rows and 24 columns.
 * Explain how to import and merge CSV files into a single dataset for complex analysis.
 * Provide insights on homicide rates in various countries and regions by using SQL queries to filter and sort data.
 
-Check my article on [MEDIUM](https://medium.com/@dimmakriss/natural-language-processing-and-sentiment-analysis-on-music-lyrics-7af53192945b)
+Check my article on [MEDIUM](https://medium.com/@dimmakriss/unlocking-the-power-of-sql-part-2-analyzing-homicides-worldwide-using-sql-and-db-browser-a59199cbda9f)
 
 ## 🚀 About Me
 Data analyst & Storyteller ┃ Pattern discoverer 
