@@ -46,9 +46,6 @@ The project's insights have several potential business applications:
 * Researchers and analysts can further investigate the factors influencing changes in homicide rates over time.
 * Organizations focused on public safety can leverage the findings to make data-driven decisions that contribute to safer communities.
 
-Check my article on [MEDIUM](https://medium.com/@dimmakriss/unlocking-the-power-of-sql-part-2-analyzing-homicides-worldwide-using-sql-and-db-browser-a59199cbda9f)
-
-
 
 ## How to use the project
 
@@ -83,6 +80,15 @@ Interpret the results to understand trends, compare regions, and identify countr
 ## Drawing Conclusions:
 
 * Based on the insights gained, draw conclusions about the trends and patterns in homicide rates across different countries and regions.
+
+
+
+## MEDIUM ARTICLE
+
+In the [medium article](https://medium.com/@dimmakriss/unlocking-the-power-of-sql-part-2-analyzing-homicides-worldwide-using-sql-and-db-browser-a59199cbda9f)
+, you'll get an in-depth look at the methodologies I used, the objectives I set out to achieve, and the exciting discoveries I made along the way. 
+
+Feel free to reach out if you have any questions or thoughts to share! 
 
 
 
