@@ -54,8 +54,8 @@ Check my article on [MEDIUM](https://medium.com/@dimmakriss/unlocking-the-power-
 
 ### Dataset Download:
 
-* Start by downloading the homicide dataset [here](https://github.com/hippoghost/Global_homicides/blob/master/Americas_homicides.xlsx), [here](https://github.com/hippoghost/Global_homicides/blob/master/Intentional%20Homicide%20Victims%20by%20counts%20and%20rates%20p.xls) and [here](https://github.com/hippoghost/Global_homicides/blob/master/europe_homicides.xlsx) .
-* Save the dataset on your local machine.
+* Start by downloading homicide datasets [here](https://github.com/hippoghost/Global_homicides/blob/master/Americas_homicides.xlsx), [here](https://github.com/hippoghost/Global_homicides/blob/master/Intentional%20Homicide%20Victims%20by%20counts%20and%20rates%20p.xls) and [here](https://github.com/hippoghost/Global_homicides/blob/master/europe_homicides.xlsx) .
+* Save datasets on your local machine.
 
 ### Data Cleaning and Transformation:
 
